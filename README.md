@@ -26,13 +26,13 @@ Explore six software design patterns with clear, practical Java examples.
 ##  Exercise 2: Smart Office Facility (Console App)
 
 A console-based Smart Office Facility manager implemented in Java.  
-Demonstrates **Singleton**, **Observer**, and **Command** patterns plus logging and simple testing.
+Demonstrates **Singleton**, **Observer**, and **Command** patterns,plus logging and simple testing.
  
 
 ### Key Features
 - Manage meeting rooms, bookings, occupancy and device control (lights, AC).  
-- auto-release of unoccupied bookings.  
-- Role-based CLI with Admin and User roles (admin can change configuration).  
+- Auto-release of unoccupied bookings.  
+- Role-based CLI with Admin and User roles (Admin can change configuration).  
 
 ### Design pattern Usage
 
@@ -43,7 +43,7 @@ Demonstrates **Singleton**, **Observer**, and **Command** patterns plus logging 
 
 ## How to Run 
 
-#### For Coding Excercise:
+#### For Coding Exercise:
 From the project root directory:
 
 ### Compile
