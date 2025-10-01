@@ -20,7 +20,7 @@ LabExperimentCloning/
 │   ├── LabExperiment.java         // Prototype Interface
 │   ├── ChemistryExperiment.java   // Concrete Prototype
 │   ├── ExperimentClient.java      // Client
-│   └── PrototypeLabDemo.java      // Main
+│   └── Main.java      // Main
 ```
 
 

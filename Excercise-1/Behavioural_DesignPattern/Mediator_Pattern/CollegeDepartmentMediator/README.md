@@ -22,7 +22,7 @@ CollegeDepartmentMediator/
 │   ├── LibraryDepartment.java    // Concrete Colleague 2
 │   ├── CollegeMediator.java      // Mediator Interface
 │   ├── DepartmentMediator.java   // Concrete Mediator
-│   └── MediatorDemo.java         // Main (Client)
+│   └── Main.java         // Main (Client)
 ```
 
 
@@ -38,7 +38,7 @@ javac -d out src/*.java
 ### Run:
 
 ```bash
-java -cp out MediatorDemo
+java -cp out Main
 ```
 
 

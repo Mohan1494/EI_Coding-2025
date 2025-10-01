@@ -42,7 +42,7 @@ javac -d out src/*.java
 ### Run:
 
 ```bash
-java -cp out BridgeDemo
+java -cp out Main
 ```
 
 
