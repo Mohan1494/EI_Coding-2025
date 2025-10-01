@@ -1,5 +1,10 @@
 # Prototype Pattern: Lab Experiment Template Cloning
 
+
+## About the Pattern
+The **Prototype Pattern** is a creational design pattern that allows creating new objects by copying (cloning) existing ones.  
+It is useful when object creation is costly or repetitive, as it enables reuse of pre-built templates.
+
 ## Overview
 
 This project demonstrates the Prototype Design Pattern in Java.

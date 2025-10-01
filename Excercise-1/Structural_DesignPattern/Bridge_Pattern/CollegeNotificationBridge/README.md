@@ -1,5 +1,11 @@
 # Bridge Pattern: College Event Notification System
 
+## About the Pattern
+The **Bridge Pattern** is a structural design pattern that decouples an abstraction from its implementation.  
+It is especially useful when you want to avoid a permanent binding between abstraction and implementation,  
+or when both abstraction and implementation need to be extended through inheritance.
+
+
 ## Overview
 
 This project demonstrates the Bridge Design Pattern in Java.

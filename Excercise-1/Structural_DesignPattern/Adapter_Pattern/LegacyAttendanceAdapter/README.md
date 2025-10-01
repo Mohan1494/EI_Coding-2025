@@ -1,5 +1,9 @@
 # Adapter Pattern: Legacy Attendance System Integration
 
+## About the Pattern
+The **Adapter Pattern** is a structural design pattern that allows incompatible interfaces to work together.  
+It acts as a bridge between a legacy system  and a modern system ,without modifying the original code.
+
 ## Overview
 
 This project demonstrates the Adapter Design Pattern in Java.
